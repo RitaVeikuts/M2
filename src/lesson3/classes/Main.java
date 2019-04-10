@@ -3,7 +3,7 @@ package lesson3.classes;
 public class Main {
     public static void main(String[] args) {
 
-        String result = newMethod (10,12);
+        String result = newMethod (10,10);
 
         System.out.println(result);
     }
