@@ -1,4 +1,4 @@
-package homew1.ex1;
+package lesson2.hw.ex1;
 
 public class Main {
     public static void main(String[] args) {
