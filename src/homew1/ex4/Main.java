@@ -6,6 +6,7 @@ public class Main {
             for (int z = 1; z < 10; z++) {
                 System.out.print(x * z +"\t");
             }
+
             System.out.println();
         }
     }
