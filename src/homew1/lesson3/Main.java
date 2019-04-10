@@ -1,4 +1,4 @@
-package homew1;
+package homew1.lesson3;
 
 public class Main {
     public static void main(String[] args) {
@@ -10,6 +10,7 @@ public class Main {
             } else if ((x*2)==20) {
                 System.out.println('0');
             }
+         //123
         }
     }
 }
