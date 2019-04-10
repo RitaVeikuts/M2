@@ -1,4 +1,4 @@
-package lesson2.hw.ex1;
+package lesson2.hw.ex4;
 
 public class Main {
     public static void main(String[] args) {
